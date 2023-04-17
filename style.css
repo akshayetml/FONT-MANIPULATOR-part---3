@@ -1,0 +1,29 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+.note{
+    font-size: 27px;
+    color: rgb(234, 40, 10);
+}
+
+.btn{
+    color: brown;
+    font-size: 20px;
+    box-shadow: 10px 40px 30px  gold;
+}
+
+.footer{
+    color: rgb(251, 247, 23);
+    position: fixed;
+    bottom: 0;
+    background-color: rgba(178, 34, 34, 0.499);
+    width: 100%;
+    text-align: center;
+}
+
+canvas{
+    border-radius: 50px;
+    box-shadow: 20px 20px 80px chocolate;
+}
